@@ -1,4 +1,4 @@
-# Hyperparameter-Optimization
+# Evolutionary-Successive-Halving-Algorithm
 ## Introduction
   - Hyperparameter Optimization 기법들을 실제 모델에 적용하는 코드
   - 현재 새로운 Hyperparameter Optimization 기법 연구 수행 중
